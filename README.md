@@ -7,8 +7,10 @@
 - ⚡ Fun fact: Coffee is a fruit :joy:<br>
 <br>
 
-<h2>Skill'S</h2>
- HTML / CSS / SCSS / JS / ANGULAR JS 
+<h2>Languages</h2>
+ HTML / CSS / SCSS / JS / ANGULAR JS <br>
+ 
+ <h2>Tools</h2>
  
  <br>
  <br>
