@@ -1,9 +1,7 @@
 ### Hi, I'm Clint Augustine 👋
 
 
-:mailbox:Get in touch
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' background="blue">](https://github.com/clint-2000)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/clint-augustine-64a926195//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/__.clint_//)  
+:mSkills: HTML / CSS / SCSS / JS / ANGULAR JS 
 
 
 
