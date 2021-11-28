@@ -11,6 +11,7 @@
  HTML / CSS / SCSS / JS / ANGULAR JS 
  
  <br>
+ <br>
  
  
  <h2>📫 How to reach me:</h2>
