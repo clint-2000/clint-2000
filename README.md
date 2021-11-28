@@ -31,30 +31,23 @@
 <img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />
 <img src="https://img.shields.io/badge/React js-282C34?logo=react&logoColor=61DAFB" alt="Reactjs logo" title="React js" height="25" />
 <img src="https://img.shields.io/badge/Adobe illustrator-282C34?logo=Adobe illustrator&logoColor=bf654a" alt="Adobe illustrator logo" title="adobe illustrator" height="25" />
-  
- 
 </p>
- 
-
  
  <br>
  <h3>if you like what i do, maybe consider buying me a coffee 🥺👉👈</h3>
 
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-<br><br>
+<br>
+<br>
   
  <h2>📫 How to reach me:</h2>
  
- <a href="https://github.com/clint-2000" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
- <a href="mailto:clintaugustine10@gmail.com">![clintaugustine10@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
- <a href="https://www.linkedin.com/in/clint-augustine-64a926195/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
- <a href="https://www.instagram.com/__.clint_/" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=F67E7D" alt="Instagram"/>
-  </a>
+<a href="https://github.com/clint-2000" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the badge&logo=Github&logoColor=white" /></a>
+<a href="mailto:clintaugustine10@gmail.com">![clintaugustine10@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/clint-augustine-64a926195/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.instagram.com/__.clint_/" target="_blank">
+<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=F67E7D" alt="Instagram"/></a>
  
-
-
-
 
 <!--
 **clint-2000/clint-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
