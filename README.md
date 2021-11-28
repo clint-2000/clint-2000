@@ -1,7 +1,7 @@
 ### Hi, I'm Clint Augustine 👋
 
 
-:Skills: HTML / CSS / SCSS / JS / ANGULAR JS 
+🔭.Skills: HTML / CSS / SCSS / JS / ANGULAR JS 
 
 
 
