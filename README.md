@@ -19,7 +19,10 @@
 <br><br>
   
  <h2>📫 How to reach me:</h2>
- <a href="mailto:clintaugustine10@gmail.com">![clintaugustine10@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/clint-augustine-64a926195/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
+ 
+ 
+ <a href="mailto:clintaugustine10@gmail.com">![clintaugustine10@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+ <a href="https://www.linkedin.com/in/clint-augustine-64a926195/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
  
 
 
