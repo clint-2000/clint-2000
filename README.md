@@ -1,7 +1,9 @@
 ### Hi, I'm Clint Augustine 👋
 
+<h1>LANGUAGE's KNOWN</h1>
+ HTML / CSS / SCSS / JS / ANGULAR JS 
+ 
 
-🔭.Skills: HTML / CSS / SCSS / JS / ANGULAR JS 
 
 
 
