@@ -3,6 +3,11 @@
 <h2>LANGUAGE</h2>
  HTML / CSS / SCSS / JS / ANGULAR JS 
  
+ 
+ <h2>📫 How to reach me:</h2>
+
+<a href="mailto:lakshmanan.meiyappan@gmail.com">![lakshmanan.meiyappan@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/lakshmanan-meiyappan/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://laxmena.medium.com">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
+ 
 
 
 
