@@ -1,6 +1,6 @@
-### Hi, I'm Clint Augustine 👋
+### <h1>Hi, I'm Clint Augustine 👋</h1>
 
-<h1>LANGUAGE's KNOWN</h1>
+<h2>LANGUAGE</h2>
  HTML / CSS / SCSS / JS / ANGULAR JS 
  
 
