@@ -1,5 +1,23 @@
 ### <h1>Hi, I'm Clint Augustine <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
+<h1>ABOUT ME</h1>
+- 🔭 I’m currently studying at dayananda sagar university - Bangalore
+- 🌱 I’m currently learning B.voc in Information Technology
+- 🤔 I’m looking for help with Back-End
+- ⚡ Fun fact: Coffee is a fruit :joy:
+
+<!--
+**clint-2000/clint-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
+
+- 📫 How to reach me: clintaugustine10@gmail.com
+- 👯 I’m looking to collaborate on ...
+ 💬 Ask me about ...
+-->
+
 <h2>LANGUAGE</h2>
  HTML / CSS / SCSS / JS / ANGULAR JS 
  
