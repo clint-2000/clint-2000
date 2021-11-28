@@ -15,8 +15,9 @@
 <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
 <img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />
 <img src="https://img.shields.io/badge/bootstrap-282C34?logo=bootstrap&logoColor=61DAFB" alt="bootstrap logo" title="bootstrap" height="25" />
-   <img src="https://img.shields.io/badge/figma-282C34?logo=figma&logoColor=rgb(180, 196, 244)" alt="figma logo" title="figma" height="25" />
-  <img src="https://img.shields.io/badge/adobe xd-282C34?logo=adobe xd&logoColor=30011e" alt="adobe xd logo" title="adobe xd" height="25" />
+<img src="https://img.shields.io/badge/figma-282C34?logo=figma&logoColor=rgb(180, 196, 244)" alt="figma logo" title="figma" height="25" />
+<img src="https://img.shields.io/badge/adobe xd-282C34?logo=adobe xd&logoColor=30011e" alt="adobe xd logo" title="adobe xd" height="25" /><br>
+  <img src="https://img.shields.io/badge/adobe illustrator-282C34?logo=adobe illustrator&logoColor=30011e" alt="adobe illustrator logo" title="adobe illustrator" height="25" />
   
   
 
