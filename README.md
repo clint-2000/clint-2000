@@ -10,7 +10,7 @@
 <h2>Languages</h2>
  HTML / CSS / SCSS / JS / ANGULAR JS <br>
  
- <h2>Tools</h2>
+ <h2>:wrench:Tools</h2>
  
  <br>
  if you like what i do, maybe consider buying me a coffee 🥺👉👈
