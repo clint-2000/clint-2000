@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/bootstrap-282C34?logo=bootstrap&logoColor=61DAFB" alt="bootstrap logo" title="bootstrap" height="25" />
 <img src="https://img.shields.io/badge/figma-282C34?logo=figma&logoColor=rgb(180, 196, 244)" alt="figma logo" title="figma" height="25" />
 <img src="https://img.shields.io/badge/adobe xd-282C34?logo=adobe xd&logoColor=30011e" alt="adobe xd logo" title="adobe xd" height="25" /><br>
-  <img src="https://img.shields.io/badge/adobe illustrator-282C34?logo=adobe illustrator&logoColor=30011e" alt="adobe illustrator logo" title="adobe illustrator" height="25" />
+ 
   
   
 
@@ -30,6 +30,7 @@
 <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />
   <img src="https://img.shields.io/badge/React js-282C34?logo=react&logoColor=61DAFB" alt="Reactjs logo" title="React js" height="25" />
+   <img src="https://img.shields.io/badge/adobe illustrator-282C34?logo=adobe illustrator&logoColor=30011e" alt="adobe illustrator logo" title="adobe illustrator" height="25" />
  
 </p>
  
