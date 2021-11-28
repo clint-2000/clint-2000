@@ -20,10 +20,10 @@
 </p>
 
 ## 📖  What I am currently learning / improving on
-
+<p>
 <img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />
 <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />
-
+</p>
  
 
  
