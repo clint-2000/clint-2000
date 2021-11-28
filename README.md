@@ -31,7 +31,7 @@
  <a href="mailto:clintaugustine10@gmail.com">![clintaugustine10@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
  <a href="https://www.linkedin.com/in/clint-augustine-64a926195/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
  <a href="https://www.instagram.com/__.clint_/" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=pink" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=F67E7D" alt="Instagram"/>
   </a>
  
 
