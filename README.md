@@ -8,7 +8,12 @@
 <br>
 
 <h2>Languages</h2>
- HTML / CSS / SCSS / JS / ANGULAR JS / UI-UX DESIGN / <br>
+  <p>
+  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598850235/html_1_whl9rj.png" alt="html-logo">
+  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849662/javascript_eniubp.png" alt="js-logo">
+  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849661/css_jtfcoz.png" alt="css-logo">
+  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849656/figma_ugopbh.png" alt="figma-logo"></p>
+</p> / JS / ANGULAR JS / UI-UX DESIGN / <br>
  
  <h2>:wrench:Tools</h2>
  <p>
