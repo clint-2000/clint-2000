@@ -3,7 +3,7 @@
 <h1>:boy:About Me</h1>
 - 🔭 I’m currently studying at : dayananda sagar university - Bangalore<br>
 - 🌱 I’m currently learning : B.voc in Information Technology<br>
-- 🤔 I’m looking for help with : Back-End<br>
+- 🤔 I’m looking for help with : Back-End Technology<br>
 - ⚡ Fun fact: Coffee is a fruit :joy:<br>
 <br>
 
