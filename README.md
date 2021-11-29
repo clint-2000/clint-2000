@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />
 <img src="https://img.shields.io/badge/bootstrap-282C34?logo=bootstrap&logoColor=61DAFB" alt="bootstrap logo" title="Bootstrap" height="25" />
 <img src="https://img.shields.io/badge/figma-282C34?logo=figma&logoColor=rgb(180, 196, 244)" alt="figma logo" title="Figma" height="25" />
-<img src="https://img.shields.io/badge/Adobe xd-282C34?logo=Adobe xd&logoColor=blue,yellow" alt="Adobe xd logo" title="Adobe xd" height="25" /><br>
+<img src="https://img.shields.io/badge/Adobe xd-282C34?logo=Adobe xd&logoColor=blue" alt="Adobe xd logo" title="Adobe xd" height="25" /><br>
  
   
   
