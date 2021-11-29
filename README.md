@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />
 <img src="https://img.shields.io/badge/React js-282C34?logo=react&logoColor=61DAFB" alt="Reactjs logo" title="React js" height="25" />
 <img src="https://img.shields.io/badge/Adobe illustrator-282C34?logo=Adobe illustrator&logoColor=bf654a" alt="Adobe illustrator logo" title="adobe illustrator" height="25" />
-  <img src="https://img.shields.io/badge/Angularjs-282C34?logo=Angular js&logoColor=bf654a" alt="Angular js logo" title="Angular js" height="25" />
+  <img src="https://img.shields.io/badge/Angularjs-282C34?logo=Angularjs&logoColor=bf654a" alt="Angular js logo" title="Angular js" height="25" />
 </p>
  
  <br>
