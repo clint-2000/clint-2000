@@ -48,7 +48,7 @@
 <a href="https://www.instagram.com/__.clint_/" target="_blank">
 <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=F67E7D" alt="Instagram"/></a>
 <a href="https://github.com/clint-2000" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white&color=white" alt="Github"/></a>
+<img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white&color=black" alt="Github"/></a>
 
 
  
